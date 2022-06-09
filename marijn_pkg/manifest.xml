@@ -1,0 +1,13 @@
+<package>
+  <description brief="marijn_pkg">
+
+     marijn_pkg
+
+  </description>
+  <author>Student</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/marijn_pkg</url>
+  <depend package="rospy"/>
+
+</package>
